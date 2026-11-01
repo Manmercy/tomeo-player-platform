@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" role="img" aria-labelledby="title">
+<title id="title">TOMEO logo for dark backgrounds</title><defs><linearGradient id="brand" x1="145" y1="18" x2="390" y2="102" gradientUnits="userSpaceOnUse"><stop stop-color="#FFE09A"/><stop offset=".2" stop-color="#FFA7BE"/><stop offset=".44" stop-color="#F66ADB"/><stop offset=".68" stop-color="#A17AFF"/><stop offset="1" stop-color="#42C9FF"/></linearGradient><linearGradient id="spark" x1="275" y1="4" x2="303" y2="37"><stop stop-color="#FFEFB3"/><stop offset="1" stop-color="#F4B93A"/></linearGradient></defs>
+<path d="M289 4c3 12 6 15 18 18-12 3-15 6-18 18-3-12-6-15-18-18 12-3 15-6 18-18Z" fill="url(#spark)"/>
+<text x="4" y="103" fill="#F8FAFF" font-family="Arial Rounded MT Bold, Avenir Next Rounded, Trebuchet MS, Arial, sans-serif" font-weight="900" font-size="106" letter-spacing="-9">TO</text><text x="145" y="103" fill="url(#brand)" font-family="Arial Rounded MT Bold, Avenir Next Rounded, Trebuchet MS, Arial, sans-serif" font-weight="900" font-size="106" letter-spacing="-9">MEO</text>
+</svg>

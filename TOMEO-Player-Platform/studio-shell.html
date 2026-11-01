@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<title>TOMEO Deck Studio</title>
+<script>
+  const localPreview = location.protocol === 'file:' || location.port === '8765';
+  const studio = localPreview
+    ? 'http://127.0.0.1:8765/TOMEO-Lorecana-Card-Data/dist/index.html?platform=1#builder'
+    : '../Lorecana-Card-Data/dist/index.html?platform=1#builder';
+  location.replace(studio);
+</script>
+<a href="../Lorecana-Card-Data/dist/index.html?platform=1#builder">Open Lorcana Studio</a>
+</html>

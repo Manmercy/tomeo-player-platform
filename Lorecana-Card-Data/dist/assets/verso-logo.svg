@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 142" role="img" aria-labelledby="title">
+  <title id="title">VERSO TCG Tracker Platform dark background logo</title>
+  <defs>
+    <linearGradient id="left" x1="15" y1="34" x2="111" y2="129" gradientUnits="userSpaceOnUse"><stop stop-color="#63D9FF"/><stop offset=".42" stop-color="#4255FF"/><stop offset="1" stop-color="#9E70FF"/></linearGradient>
+    <linearGradient id="right" x1="79" y1="129" x2="149" y2="31" gradientUnits="userSpaceOnUse"><stop stop-color="#4255FF"/><stop offset=".43" stop-color="#7857FF"/><stop offset="1" stop-color="#FF7AD9"/></linearGradient>
+    <linearGradient id="fold" x1="52" y1="36" x2="106" y2="130" gradientUnits="userSpaceOnUse"><stop stop-color="#B4F1FF" stop-opacity=".8"/><stop offset=".56" stop-color="#C991FF"/><stop offset="1" stop-color="#4A24C9"/></linearGradient>
+    <linearGradient id="gold" x1="80" y1="2" x2="80" y2="40" gradientUnits="userSpaceOnUse"><stop stop-color="#FFF8CF"/><stop offset=".48" stop-color="#FFCF57"/><stop offset="1" stop-color="#F5A52E"/></linearGradient>
+  </defs>
+  <g transform="translate(0 1) scale(.96)"><path d="M151 34h-43L69 101l13 22c9 16 32 17 43-2z" fill="url(#right)"/><path d="M11 34h43c9 0 15 4 20 12l39 64c6 10 3 19-5 24-12 8-31 4-40-11z" fill="url(#left)"/><path d="M54 34c9 0 15 4 20 12l39 64c5 9 4 17-2 22-7-1-13-5-18-13L47 43c-3-5-8-8-14-9z" fill="url(#fold)" opacity=".85"/><path d="M80 0c2 15 6 20 20 22-14 2-18 7-20 22-2-15-6-20-20-22C74 20 78 15 80 0Z" fill="url(#gold)"/></g>
+  <text x="170" y="79" fill="#FFFFFF" font-family="Inter, Plus Jakarta Sans, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="2">VERSO</text>
+  <text x="173" y="112" fill="#C9B8FF" font-family="Inter, Plus Jakarta Sans, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="5.2">TCG TRACKER PLATFORM</text>
+</svg>

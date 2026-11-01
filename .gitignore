@@ -1,0 +1,12 @@
+.DS_Store
+**/.DS_Store
+
+# Local review artifacts and launch helpers are not part of the public site.
+brand/
+PRODUCT_AUDIT_*.md
+FEATURE_READINESS_AUDIT_*.md
+TOMEO-Player-Platform/AUDIT.md
+TOMEO-Player-Platform/Start.command
+TOMEO-Player-Platform/previews/
+TOMEO-Player-Platform/tools/
+TOMEO-Player-Platform/assets/tomeo-spirit-*.png

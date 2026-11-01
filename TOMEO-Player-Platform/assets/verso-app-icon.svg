@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" role="img" aria-labelledby="title">
+  <title id="title">VERSO app icon</title>
+  <defs>
+    <linearGradient id="icon-bg" x1="18" y1="12" x2="176" y2="184" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#EFF0FA"/></linearGradient>
+    <linearGradient id="icon-left" x1="29" y1="51" x2="119" y2="157" gradientUnits="userSpaceOnUse"><stop stop-color="#5B7CFF"/><stop offset=".58" stop-color="#526BEF"/><stop offset="1" stop-color="#7857FF"/></linearGradient>
+    <linearGradient id="icon-right" x1="84" y1="151" x2="165" y2="50" gradientUnits="userSpaceOnUse"><stop stop-color="#4459D2"/><stop offset=".48" stop-color="#5B5FEF"/><stop offset="1" stop-color="#7857FF"/></linearGradient>
+    <linearGradient id="icon-fold" x1="62" y1="53" x2="124" y2="158" gradientUnits="userSpaceOnUse"><stop stop-color="#A78BFA" stop-opacity=".74"/><stop offset=".53" stop-color="#5B7CFF" stop-opacity=".94"/><stop offset="1" stop-color="#1A1F4B"/></linearGradient>
+  </defs>
+  <rect x="4" y="4" width="184" height="184" rx="44" fill="url(#icon-bg)" stroke="#D9DEF0" stroke-width="8"/>
+  <path d="M172 55h-45l-41 71 13 22c9 16 33 17 45-3z" fill="url(#icon-right)"/>
+  <path d="M20 55h45c9 0 16 4 21 13l40 65c6 10 3 20-5 25-13 8-33 4-42-12z" fill="url(#icon-left)"/>
+  <path d="M65 55c9 0 16 4 21 13l40 65c5 9 4 18-2 23-8-1-14-5-19-14L58 64c-3-5-8-8-14-9z" fill="url(#icon-fold)" opacity=".88"/>
+  <path d="M96 15c2.2 15.5 6.4 20.4 21 22.5-14.6 2.1-18.8 7-21 22.5-2.2-15.5-6.4-20.4-21-22.5 14.6-2.1 18.8-7 21-22.5Z" fill="#FFCF57"/>
+</svg>
